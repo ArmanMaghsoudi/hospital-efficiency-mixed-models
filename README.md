@@ -1,7 +1,7 @@
 # Multilevel Mixed-Effects & Heteroscedastic Modeling of Hospital Provider Efficiency
 
 ![Status: Work in Progress](https://img.shields.io/badge/Status-Work_in_Progress-orange)
-![Course: Applied Statistics](https://img.shields.io/badge/PoliMi-Applied_Statistics_(052911)-blue)
+![Course: Applied Statistics](https://img.shields.io/badge/PoliMi-Applied_Statistics-blue)
 ![Language: R](https://img.shields.io/badge/Language-R-276DC3)
 
 ## Overview
