@@ -1,0 +1,13 @@
+# RStudio & R temporary files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Temporary Excel lock files & OS files
+~$*.xlsx
+.DS_Store
+Thumbs.db
+
+# Ignore the heavy raw data dump (automatically downloaded by 01_data_preparation.R)
+data/raw_sparcs_hf_2021.csv
