@@ -5,7 +5,7 @@
 ![Language: R](https://img.shields.io/badge/Language-R-276DC3)
 
 ## Overview
-This repository contains the data pipeline and statistical analysis for our **Applied Statistics (052911)** course project at Politecnico di Milano. 
+This repository contains the data pipeline and statistical analysis for our **Applied Statistics** course project at Politecnico di Milano. 
 
 We analyze inpatient hospital discharge records for **Heart Failure (APR-DRG Code 194)** across New York State hospitals using de-identified data from the **NY Department of Health (SPARCS)** via Data.gov ($n = 14,559$ stays nested within $G = 122$ hospital providers). Our objective is to separate patient case-mix severity from institutional provider effects when benchmarking Length of Stay (LOS) and treatment costs.
 
